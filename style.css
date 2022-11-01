@@ -1,0 +1,146 @@
+body {
+font-family: sans-serif
+}
+
+.h2 {
+    color: brown;
+    background-color: aquamarine;
+}
+
+.top {
+    margin-top: 80px;
+    text-align: center;
+}
+
+p{
+ color: grey;
+}
+
+.btn-1 {background-color: rgb(77, 223, 198);
+    margin-top: 20px;
+    border-radius: 20px;
+    width: 160px;
+    height: 40px;
+    color: white;
+    border: 2px white;
+    box-shadow: 0 4px 4px 0 grey;
+}
+
+.btn-2 {background-color: rgb(92, 92, 230);
+    border-radius: 20px;
+    width: 160px;
+    height: 40px;
+    color: white;
+    border: 2px white;
+    box-shadow: 0 4px 4px 0 grey;
+}
+
+.btn-1:hover {
+    background-color: purple;
+}
+.btn-2:hover {
+    background-color: purple
+}
+
+.middle {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+}
+
+
+.middle-1 {
+    margin-left: 120px;
+}
+
+.middle-1 h3 {
+    padding-top: 50px;
+}
+
+.middle-2 {
+    margin-top: 120px;
+    text-align: center;
+}
+
+.middle-2 img{
+    padding-top: 80px;
+}
+
+.middle-2 h1{
+    font-size: xx-large;
+}
+
+.article1 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.art2 {
+    margin-left: 100px;
+}
+
+.art3 {
+    margin-left: 100px;
+}
+
+.article2 {
+    display: flex;
+    flex-direction: row;
+    padding-top: 60px;
+}
+
+.article2 img {
+    margin-left: 100px;
+    padding-top: 100px;
+}
+
+.article3 {
+    text-align: center;
+    padding-top: 140px;
+    padding-bottom: 180px;
+}
+
+.footer1 {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: auto;
+    background-color: rgb(235, 235, 235);
+}
+
+.footer1 li {
+    list-style: none;
+    margin-top: 20px;
+}
+
+footer a {
+    text-decoration: none;
+    color: rgb(119, 115, 115);
+}
+
+.foot-img1 {
+    margin-left: 100px;
+    padding-right: 50px;
+}
+
+.foot-img1 img {
+    margin-top: 20px;
+    width: 40px;
+}
+
+.footer1 ol {
+    margin-left: 50px;
+}
+
+.foot-img2 {
+    padding-left: 300px;
+    padding-top: 30px;
+}
+
+.foot-img2 img {
+    margin-right: 20px;
+}
